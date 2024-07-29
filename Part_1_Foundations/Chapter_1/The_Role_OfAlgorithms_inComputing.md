@@ -53,35 +53,35 @@ Polynomial time is a concept used in computer science to describe the efficiency
 #### Turing Machine as a Model
 
 1. **Turing Machine**: Imagine a Turing machine, which is a theoretical model for computation. It's like a very basic computer that performs operations step by step.
-2. **Input Size**: When you give the Turing machine an input, its size is denoted by $n$ . The size could be the length of a string, the number of elements in an array, etc.
+2. **Input Size**: When you give the Turing machine an input, its size is denoted by $n$. The size could be the length of a string, the number of elements in an array, etc.
 
 #### Computation Sequence
 
 3. **Configurations**: As the Turing machine processes the input, it goes through a sequence of configurations (states) at each step. These configurations can be represented as $c_0, c_1, c_2, \ldots$.
-4. **Finite Computation**: Ideally, the machine will eventually stop after a finite number of steps. If it stops after $ t $ steps, then $ t $ represents the running time for that input of size $ n $.
+4. **Finite Computation**: Ideally, the machine will eventually stop after a finite number of steps. If it stops after $t$ steps, then $t$ represents the running time for that input of size $n$.
 
 #### Polynomial Time Definition
 
-5. **Polynomial Running Time**: An algorithm is said to have polynomial running time if there exist constants $ k $ and $ C $ such that the running time $ t $ is at most $ Cn^k $. This means the time it takes to complete the computation grows at most like some polynomial function of $ n $.
-6. **Big-O Notation**: In Big-O notation, we express this as $ O(n^k) $. This includes:
-   - **Linear Time**: $ O(n) $
-   - **Quadratic Time**: $ O(n^2) $
-   - **Cubic Time**: $ O(n^3) $
+5. **Polynomial Running Time**: An algorithm is said to have polynomial running time if there exist constants $k$ and $C$ such that the running time $t$ is at most $Cn^k$. This means the time it takes to complete the computation grows at most like some polynomial function of $n$.
+6. **Big-O Notation**: In Big-O notation, we express this as $O(n^k)$. This includes:
+   - **Linear Time**: $O(n)$
+   - **Quadratic Time**: $O(n^2)$
+   - **Cubic Time**: $O(n^3)$
    - And so on...
 
 #### Non-Polynomial Time
 
-7. **Exponential Running Time**: Algorithms that have running times like $( 2^n )$ or $( 3^n )$ grow much faster than polynomial time and are not considered efficient for large inputs.
+7. **Exponential Running Time**: Algorithms that have running times like $( 2^n )$ or $( 3^n )$grow much faster than polynomial time and are not considered efficient for large inputs.
 
 8. **Sub-Exponential Time**: Some algorithms, such as the best-known algorithm for factoring large numbers, have running times like $O(\exp(Cn^{1/3} \log^{2/3} n))$. This is called sub-exponential time.
 
-9. **Quasi-Polynomial Time**: Other algorithms might run in time like $O(\exp(A\log^C n))$, where $ A > 0 $ and $ C > 1 $. These are known as quasi-polynomial times. Recently, such algorithms have been found for certain complex problems like discrete logarithms over small characteristics.
+9. **Quasi-Polynomial Time**: Other algorithms might run in time like $O(\exp(A\log^C n))$, where $A > 0$ and $C > 1$. These are known as quasi-polynomial times. Recently, such algorithms have been found for certain complex problems like discrete logarithms over small characteristics.
 
 ### Summary
 
-- **Polynomial Time**: An algorithm runs in polynomial time if its running time $ t(n) $ is at most $O(n^k)$ for some $ k $.
+- **Polynomial Time**: An algorithm runs in polynomial time if its running time $t(n) $is at most $O(n^k)$for some $k $.
 
-- **Non-Polynomial Time**: Algorithms with running times like $ 2^n $ are considered inefficient for large inputs.
+- **Non-Polynomial Time**: Algorithms with running times like $2^n$ are considered inefficient for large inputs.
 - **Intermediate Times**: Sub-exponential and quasi-polynomial times lie between polynomial and exponential times in terms of growth rate.
 
 - This concept is crucial in computer science because polynomial-time algorithms are generally considered efficient and feasible for practical use.
