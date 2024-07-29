@@ -57,7 +57,7 @@ Polynomial time is a concept used in computer science to describe the efficiency
 
 #### Computation Sequence
 
-3. **Configurations**: As the Turing machine processes the input, it goes through a sequence of configurations (states) at each step. These configurations can be represented as $'c_0, c_1, c_2, \ldots'$.
+3. **Configurations**: As the Turing machine processes the input, it goes through a sequence of configurations (states) at each step. These configurations can be represented as $c_0, c_1, c_2, \ldots$.
 4. **Finite Computation**: Ideally, the machine will eventually stop after a finite number of steps. If it stops after $ t $ steps, then $ t $ represents the running time for that input of size $ n $.
 
 #### Polynomial Time Definition
