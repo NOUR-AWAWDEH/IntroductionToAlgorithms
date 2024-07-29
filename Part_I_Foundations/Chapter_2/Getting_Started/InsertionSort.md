@@ -247,5 +247,60 @@ At each iteration of the for loop, the algorithm:
 - Compares the key with elements in the sorted portion.
 - Shifts elements in the sorted portion to the right to make space for the key.
 - Inserts the key into its correct position.
+- This process continues until the entire array is sorted. 
+- The diagram effectively illustrates the movement of elements and the insertion of the key at each step, making it clear how Insertion Sort operates.
 
-This process continues until the entire array is sorted. The diagram effectively illustrates the movement of elements and the insertion of the key at each step, making it clear how Insertion Sort operates.
+---
+- The notation `A[1:i-1]` is a common way to describe subarrays in programming and algorithm discussions.
+
+### Understanding `A[1:i-1]`
+
+1. **Array `A`**:
+    - `A` is the name of the array.
+
+2. **Subarray Notation `A[1:i-1]`**:
+    - **Start Index (`1`)**: This indicates the starting position of the subarray.
+    - **End Index (`i-1`)**: This indicates the ending position of the subarray.
+
+### Reading `A[1:i-1]`
+
+- The notation `A[1:i-1]` means the **portion of the array `A`** that starts at index `1` and ends at index `i-1`.
+
+- In many programming languages, arrays are 0-indexed (i.e., the first element is `A[0]`), but in some contexts, especially in formal algorithm descriptions or mathematical contexts, arrays might be considered 1-indexed (i.e., the first element is `A[1]`).
+
+### The notation `:`
+
+ - The notation `:` denotes a subarray.
+ - Thus,  `A[i:j]` indicates the subarray of A consisting of the elements `A[i], A[i+1], A[i+2], A[i+3], ...., A[j]`.
+ - We also use this notation to indicate the bounds of an array `A[i:n]`.
+
+### Usage in Loop Invariants
+
+In the context of the Insertion Sort and the loop invariant:
+
+- **Invariant:** The subarray `A[1:i-1]` is sorted.
+
+- **Meaning:** This means that, at the start of each iteration of the loop, the elements from the first position up to the position `i-1` are in sorted order.
+
+- **Example:**
+    - If `i = 4`, then `A[1:i-1]` means `A[1:3]`.
+    - This corresponds to the subarray `[2, 4, 5]` (assuming 1-based indexing).
+    - The invariant states that `[2, 4, 5]` is sorted before the fourth iteration begins.
+
+### Summary
+
+- `A[1:i-1]` describes a subarray from index `1` to `i-1`.
+
+- In a 0-indexed context, it would typically be `A[0:i-1]` to describe a subarray from the start up to (but not including) index `i`.
+
+- In a 1-indexed context, `A[1:i-1]` describes a subarray from the first element up to (but not including) the `i`-th element.
+
+- This notation is useful for describing specific parts of the array that are being operated on or considered in an algorithm.
+
+Understanding this notation helps in grasping how algorithms manipulate subsets of the data structure to achieve their goals.
+
+---
+
+
+
+
