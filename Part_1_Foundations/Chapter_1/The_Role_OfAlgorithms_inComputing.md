@@ -71,7 +71,7 @@ Polynomial time is a concept used in computer science to describe the efficiency
 
 #### Non-Polynomial Time
 
-7. **Exponential Running Time**: Algorithms that have running times like $( 2^n )$ or $( 3^n )$grow much faster than polynomial time and are not considered efficient for large inputs.
+7. **Exponential Running Time**: Algorithms that have running times like $( 2^n )$ or $( 3^n )$ grow much faster than polynomial time and are not considered efficient for large inputs.
 
 8. **Sub-Exponential Time**: Some algorithms, such as the best-known algorithm for factoring large numbers, have running times like $O(\exp(Cn^{1/3} \log^{2/3} n))$. This is called sub-exponential time.
 
@@ -79,7 +79,7 @@ Polynomial time is a concept used in computer science to describe the efficiency
 
 ### Summary
 
-- **Polynomial Time**: An algorithm runs in polynomial time if its running time $t(n) $is at most $O(n^k)$for some $k $.
+- **Polynomial Time**: An algorithm runs in polynomial time if its running time $t(n)$ is at most $O(n^k)$ for some $k$ .
 
 - **Non-Polynomial Time**: Algorithms with running times like $2^n$ are considered inefficient for large inputs.
 - **Intermediate Times**: Sub-exponential and quasi-polynomial times lie between polynomial and exponential times in terms of growth rate.
