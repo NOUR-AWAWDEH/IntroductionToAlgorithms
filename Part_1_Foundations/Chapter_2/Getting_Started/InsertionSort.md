@@ -8,9 +8,9 @@ We use this algorithm to solve the sorting problem:
 
 **Math formula:** 
 
-**Input:** A sequence of $ n $ numbers $ a_1, a_2, \ldots, a_n $.
+**Input:** A sequence of $n$ numbers $a_1, a_2, \ldots, a_n$.
 
-**Output:** A permutation (reordering) $ a'_1, a'_2, \ldots, a'_n $ of the input sequence such that \(\) $a'_1 \le a'_2 \le \ldots \le a'_n $.
+**Output:** A permutation (reordering) $a'_1, a'_2, \ldots, a'_n$ of the input sequence such that \(\) $a'_1 \le a'_2 \le \ldots \le a'_n$.
 
 - The numbers to be sorted are also known as the **keys**.
 - Other data which associated with keys, we call **satellite data**.
