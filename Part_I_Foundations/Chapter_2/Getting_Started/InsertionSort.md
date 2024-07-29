@@ -195,7 +195,7 @@ INSERTION-SORT(A, n)
 ![Insertion Sort algorithm Figure](./InseartionSortAgorthemFigure.JPG)
 
 
-T
+
 ### Detailed Explanation With Diagram
 
 1. **Initial Array:**
