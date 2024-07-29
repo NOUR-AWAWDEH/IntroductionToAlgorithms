@@ -175,4 +175,4 @@ Now the array is sorted:
  - This process results in a sorted array.
 
 ---
-![Insertion Sort algorithm Figure](./InseartionSortAgorthemFigure.JPGInser)
+![Insertion Sort algorithm Figure](./InseartionSortAgorthemFigure.JPG)
