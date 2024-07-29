@@ -175,4 +175,77 @@ Now the array is sorted:
  - This process results in a sorted array.
 
 ---
+### Pseudocode for Insertion Sort Algorithm:
+
+```pseudocode
+INSERTION-SORT(A, n)
+    for i = 1 to n
+        key = A[i]
+        // Insert A[i] into the sorted subarray A[1..i-1]
+        j = i - 1
+        while j > 0 and A[j] > key
+            A[j+1] = A[j]
+            j = j - 1
+        A[j+1] = key
+
+```
+
+### A Figure to Shows How Inseartion Sort Algorithm Works:
+---
 ![Insertion Sort algorithm Figure](./InseartionSortAgorthemFigure.JPG)
+
+
+T
+### Detailed Explanation With Diagram
+
+1. **Initial Array:**
+    - The array starts as: `{5, 2, 4, 6, 1, 3}`, with `n = 6`.
+
+2. **Iterations of the for loop:**
+
+    **(a) First Iteration (`i = 1`):**
+    - **Initial State:** `{5, 2, 4, 6, 1, 3}`
+    - **Key:** `2` (blue rectangle)
+    - **Comparison:** Compare `2` with `5`.
+    - **Action:** Since `5` is greater than `2`, move `5` one position to the right.
+    - **Result:** The array becomes `{2, 5, 4, 6, 1, 3}`. The key `2` is placed in the first position (indicated by the blue arrow).
+
+    **(b) Second Iteration (`i = 2`):**
+    - **Initial State:** `{2, 5, 4, 6, 1, 3}`
+    - **Key:** `4` (blue rectangle)
+    - **Comparison:** Compare `4` with `5`.
+    - **Action:** Since `5` is greater than `4`, move `5` one position to the right.
+    - **Result:** The array becomes `{2, 4, 5, 6, 1, 3}`. The key `4` is placed in the second position (indicated by the blue arrow).
+
+    **(c) Third Iteration (`i = 3`):**
+    - **Initial State:** `{2, 4, 5, 6, 1, 3}`
+    - **Key:** `6` (blue rectangle)
+    - **Comparison:** Compare `6` with `5`.
+    - **Action:** Since `6` is already greater than `5`, no movement is needed.
+    - **Result:** The array remains `{2, 4, 5, 6, 1, 3}`.
+
+    **(d) Fourth Iteration (`i = 4`):**
+    - **Initial State:** `{2, 4, 5, 6, 1, 3}`
+    - **Key:** `1` (blue rectangle)
+    - **Comparison:** Compare `1` with `6`, `5`, `4`, and `2`.
+    - **Action:** Since `1` is smaller than all these values, shift all of them one position to the right.
+    - **Result:** The array becomes `{1, 2, 4, 5, 6, 3}`. The key `1` is placed at the beginning (indicated by the blue arrow).
+
+    **(e) Fifth Iteration (`i = 5`):**
+    - **Initial State:** `{1, 2, 4, 5, 6, 3}`
+    - **Key:** `3` (blue rectangle)
+    - **Comparison:** Compare `3` with `6`, `5`, and `4`.
+    - **Action:** Since `3` is smaller than `6`, `5`, and `4`, shift them one position to the right.
+    - **Result:** The array becomes `{1, 2, 3, 4, 5, 6}`. The key `3` is placed in the third position (indicated by the blue arrow).
+
+3. **Final Sorted Array:**
+    - After completing all iterations, the final sorted array is `{1, 2, 3, 4, 5, 6}` (as shown in part (f) of the diagram).
+
+### Summary
+At each iteration of the for loop, the algorithm:
+- Selects a key element from the unsorted portion.
+- Compares the key with elements in the sorted portion.
+- Shifts elements in the sorted portion to the right to make space for the key.
+- Inserts the key into its correct position.
+
+This process continues until the entire array is sorted. The diagram effectively illustrates the movement of elements and the insertion of the key at each step, making it clear how Insertion Sort operates.

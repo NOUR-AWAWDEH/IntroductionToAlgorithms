@@ -91,7 +91,7 @@ Polynomial time is a concept used in computer science to describe the efficiency
 
 you should consider algorithms, like computer hardware, as a technology.
 
-Total system performance depends on choosing efûcient
+Total system performance depends on choosing efficient
 algorithms as much as on choosing fast hardware.
 
 ---
