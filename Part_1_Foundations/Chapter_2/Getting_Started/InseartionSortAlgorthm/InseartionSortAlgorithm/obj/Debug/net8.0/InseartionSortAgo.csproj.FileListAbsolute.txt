@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\bin\Debug\net8.0\InseartionSortAgo.exe
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\bin\Debug\net8.0\InseartionSortAgo.deps.json
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\bin\Debug\net8.0\InseartionSortAgo.runtimeconfig.json
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\bin\Debug\net8.0\InseartionSortAgo.dll
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\bin\Debug\net8.0\InseartionSortAgo.pdb
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.AssemblyInfo.cs
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.dll
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\refint\InseartionSortAgo.dll
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.pdb
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\InseartionSortAgo.genruntimeconfig.cache
+C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\obj\Debug\net8.0\ref\InseartionSortAgo.dll

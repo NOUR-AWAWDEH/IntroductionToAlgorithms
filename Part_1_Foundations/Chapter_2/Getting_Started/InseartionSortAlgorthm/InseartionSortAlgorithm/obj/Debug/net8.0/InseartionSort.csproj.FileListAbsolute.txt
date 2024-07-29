@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\InseartionSort.exe
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\InseartionSort.deps.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\InseartionSort.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\InseartionSort.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\InseartionSort.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\InseartionSort.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\InseartionSort.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\InseartionSort.dll
