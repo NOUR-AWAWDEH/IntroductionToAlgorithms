@@ -5,7 +5,7 @@
 
  - An algorithm is thus a sequence of computational steps that transform the input into the output.
 
- - An algorithm as a tool for solving a well-speciûed computational problem.
+ - An algorithm as a tool for solving a well-specified computational problem.
 
 ---
 
@@ -25,10 +25,87 @@
 
  - 
 ---
+## What is Time Complexity and Space Complexity ?
+
+ - Generally, there is always more than one way to solve a problem in computer science with different algorithms.
+
+ - Therefore, it is highly required to use a method to compare the solutions in order to judge which one is more optimal. The method must be:
+
+   - Independent of the machine and its configuration, on which the algorithm is running on.
+   - Shows a direct correlation with the number of inputs.
+   - Can distinguish two algorithms clearly without ambiguity.
+
+ - There are two such methods used, time complexity and space complexity which are discussed below:
+
+
+ ### Time Complexity:
+ 
+  - The time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the input.
+
+ - Note that the time to run is a function of the length of the input and not the actual execution time of the machine on which the algorithm is running on.
+
+ - The valid algorithm takes a finite amount of time for execution.
+ 
+ - The time required by the algorithm to solve given problem is called time complexity  of the algorithm.
+ 
+ - Time complexity is very useful measure in algorithm analysis.
+
+ - It is the time needed for the completion of an algorithm. To estimate the time complexity, we need to consider the cost of each fundamental instruction and the number of times the instruction is executed.
+
+
+### Space Complexity:
+  
+ - Problem-solving using computer requires memory to hold temporary data or final result while the program is in execution.
+ 
+ - The amount of memory required by the algorithm to solve given problem is called space complexity of the algorithm.
+
+ - The space complexity of an algorithm quantifies the amount of space taken by an algorithm to run as a function of the length of the input.
+ 
+ - Consider an example: Suppose a problem to find the frequency of array elements.
+
+ - It is the amount of memory needed for the completion of an algorithm. 
+
+ - To estimate the memory requirement we need to focus on two parts: 
+
+   1. A fixed part: It is independent of the input size. It includes memory for instructions (code), constants, variables, etc.
+
+   2. A variable part: It is dependent on the input size. It includes memory for recursion stack, referenced variables, etc.
+
+### Auxiliary space:
+ 
+ - Auxiliary space which is different from space complexity.
+ 
+ - The main difference is where space complexity quantifies the total space used by the algorithm.
+ 
+ - Auxiliary space quantifies the extra space that is used in the algorithm apart from the given input.
+  
+---
+
 ## What is efficiency ?
  
- - how long does an algorithm take to produce its result ? 
-In computational complexity theory, a problem is NP-complete when:
+ - How long does an algorithm take to produce its result ? 
+
+ - In computer science, algorithmic efficiency is **a property of an algorithm which relates to the amount of computational resources used by the algorithm**.
+ 
+ - Algorithmic efficiency can be thought of as analogous to engineering productivity for a repeating or continuous process.
+
+ - For maximum efficiency it is desirable to minimize resource usage.
+ 
+ - However, different resources such as time and space complexity cannot be compared directly, so which of two algorithms is considered to be more efficient often depends on which measure of efficiency is considered most important.
+
+### Example efficiency on an Algorithm:
+
+ - For example, **bubble sort** and **timsort** are both algorithms to sort a list of items from smallest to largest.
+ 
+ - **Bubble sort** organizes the list in time proportional to the number of elements squared $(𝑂(𝑛^2)$, but only requires a small amount of extra memory which is constant with respect to the length of the list $𝑂(1)$.
+
+ - **Timsort** sorts the list in time linearithmic (proportional to a quantity times its logarithm) in the list's length $(O(n\log n))$ but has a space requirement linear in the length of the list .
+ 
+#### Conclusion
+
+ - If large lists must be sorted at high speed for a given application, timsort is a better choice;
+ 
+ - however, if minimizing the memory footprint of the sorting is more important, bubble sort is a better choice.
 
 ---
 ## What is a  decision problem ?

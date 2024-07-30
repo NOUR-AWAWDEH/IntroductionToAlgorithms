@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj": {}
+    "D:\\Old_Laptop\\MY-Files\\MY-Study\\ADS\\Notes\\IntroductionToAlgorithms\\Part_I_Foundations\\Chapter_2\\Getting_Started\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj": {
+    "D:\\Old_Laptop\\MY-Files\\MY-Study\\ADS\\Notes\\IntroductionToAlgorithms\\Part_I_Foundations\\Chapter_2\\Getting_Started\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj",
+        "projectUniqueName": "D:\\Old_Laptop\\MY-Files\\MY-Study\\ADS\\Notes\\IntroductionToAlgorithms\\Part_I_Foundations\\Chapter_2\\Getting_Started\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj",
         "projectName": "InseartionSortAgo",
-        "projectPath": "C:\\Users\\User\\source\\repos\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj",
+        "projectPath": "D:\\Old_Laptop\\MY-Files\\MY-Study\\ADS\\Notes\\IntroductionToAlgorithms\\Part_I_Foundations\\Chapter_2\\Getting_Started\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\InseartionSortAgo.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\obj\\",
+        "outputPath": "D:\\Old_Laptop\\MY-Files\\MY-Study\\ADS\\Notes\\IntroductionToAlgorithms\\Part_I_Foundations\\Chapter_2\\Getting_Started\\InseartionSortAlgorthm\\InseartionSortAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InseartionSortAgo
-build_property.ProjectDir = C:\Users\User\source\repos\InseartionSortAlgorthm\InseartionSortAlgorithm\
+build_property.ProjectDir = D:\Old_Laptop\MY-Files\MY-Study\ADS\Notes\IntroductionToAlgorithms\Part_I_Foundations\Chapter_2\Getting_Started\InseartionSortAlgorthm\InseartionSortAlgorithm\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
