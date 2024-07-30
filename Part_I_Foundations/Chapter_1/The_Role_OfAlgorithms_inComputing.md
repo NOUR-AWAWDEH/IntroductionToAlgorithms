@@ -139,7 +139,7 @@ Polynomial time is a concept used in computer science to describe the efficiency
 #### Polynomial Time Definition
 
 5. **Polynomial Running Time**: An algorithm is said to have polynomial running time if there exist constants $k$ and $C$ such that the running time $t$ is at most $Cn^k$. This means the time it takes to complete the computation grows at most like some polynomial function of $n$.
-6. **Big-O Notation**: In Big-O notation, we express this as $O(n^k)$. This includes:
+6. **Big-O Notation**: In Big-O notation, we express this as $O(n^k)$ . This includes:
    - **Linear Time**: $O(n)$
    - **Quadratic Time**: $O(n^2)$
    - **Cubic Time**: $O(n^3)$
