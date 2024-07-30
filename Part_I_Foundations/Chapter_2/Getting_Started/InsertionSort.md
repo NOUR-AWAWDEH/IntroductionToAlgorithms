@@ -1,5 +1,3 @@
-Here is the content converted to a Markdown file:
-
 # Getting Started
 
 ## Insertion Sort
@@ -33,7 +31,7 @@ Insertion sort, which is an efficient algorithm for sorting a small number of el
 ---
 
 
-**Implementaion of Insertion Sort Using C# Lamguage :** 
+**Implementaion of Insertion Sort Using C# Language :** 
 
 ```csharp
 public static void InsertionSort(int[] arr)
@@ -50,7 +48,7 @@ public static void InsertionSort(int[] arr)
         while (sortedIndex >= 0 && arr[sortedIndex] > key)
         {
             arr[sortedIndex + 1] = arr[sortedIndex];
-            sortedIndex = sortedIndex - 1;
+            sortedIndex--;
         }
         arr[sortedIndex + 1] = key;
     }
@@ -63,7 +61,11 @@ Let's break it down step by step:
 
 - Insertion Sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time.
 
-- It is much like sorting playing cards in your hands. The array is virtually split into a sorted and an unsorted part. Values from the unsorted part are picked and placed at the correct position in the sorted part.
+- It is much like sorting playing cards in your hands.
+
+- The array is virtually split into a sorted and an unsorted part.
+
+- Values from the unsorted part are picked and placed at the correct position in the sorted part.
 
 ### Code Explanation
 
@@ -105,10 +107,10 @@ Let's break it down step by step:
 
     ```csharp
     arr[sortedIndex + 1] = arr[sortedIndex];
-    sortedIndex = sortedIndex - 1;
+    sortedIndex--;
     ```
     - `arr[sortedIndex + 1] = arr[sortedIndex];` shifts the element at `arr[sortedIndex]` to the next position (`arr[sortedIndex + 1]`).
-    - `sortedIndex = sortedIndex - 1;` decrements `sortedIndex` to continue checking the next element to the left.
+    - `sortedIndex--;` decrements `sortedIndex` to continue checking the next element to the left.
 
 6. **Insert Key:**
     ```csharp

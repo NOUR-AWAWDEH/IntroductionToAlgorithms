@@ -23,8 +23,8 @@
  
  - No single data structure works well for all purposes, and so you should know the strengths and limitations of several of them.
 
- - 
 ---
+
 ## What is Time Complexity and Space Complexity ?
 
  - Generally, there is always more than one way to solve a problem in computer science with different algorithms.
@@ -36,7 +36,6 @@
    - Can distinguish two algorithms clearly without ambiguity.
 
  - There are two such methods used, time complexity and space complexity which are discussed below:
-
 
  ### Time Complexity:
  
@@ -97,9 +96,9 @@
 
  - For example, **bubble sort** and **timsort** are both algorithms to sort a list of items from smallest to largest.
  
- - **Bubble sort** organizes the list in time proportional to the number of elements squared $(𝑂(𝑛^2)$, but only requires a small amount of extra memory which is constant with respect to the length of the list $𝑂(1)$.
+ - **Bubble sort** organizes the list in time proportional to the number of elements squared $𝑂(𝑛^2)$, but only requires a small amount of extra memory which is constant with respect to the length of the list $𝑂(1)$.
 
- - **Timsort** sorts the list in time linearithmic (proportional to a quantity times its logarithm) in the list's length $(O(n\log n))$ but has a space requirement linear in the length of the list .
+ - **Timsort** sorts the list in time linearithmic (proportional to a quantity times its logarithm) in the list's length $O(n\log n)$ but has a space requirement linear in the length of the list .
  
 #### Conclusion
 
@@ -125,7 +124,7 @@
 ---
 ### What is Polynomial Time?
 
-Polynomial time is a concept used in computer science to describe the efficiency of an algorithm in terms of how its running time grows with the size of the input. Let's break it down step-by-step.
+Polynomial time is a concept used in computer science to describe the efficiency of an algorithm in terms of how its running time grows with the size of the input. 
 
 #### Turing Machine as a Model
 
