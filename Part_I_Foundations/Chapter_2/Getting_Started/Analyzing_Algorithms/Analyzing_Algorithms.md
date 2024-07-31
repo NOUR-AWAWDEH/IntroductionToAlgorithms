@@ -1,5 +1,12 @@
 # Analyzing Algorithms
 
+---
+
+Note : Start To Learn Math at part VIII, becouse When you analyze algorithms, you often need to draw upon a body of mathematical tools.
+---
+
+---
+
 ## What is Analyzing Algorithms ?
 
  - Analyzing an algorithm has come to mean predicting the resources that the algorithm requires.
@@ -184,7 +191,9 @@ contributes $(C_k\ m)$, to the total running time.
   - And $b = C_2 +C_4 +C_5 +C_8$.
 
 
----
+ **The running time is thus a linear function of $n$.**
+
+ **The worst case arises when the array is in reverse sorted order. (that is, it starts out in decreasing order)**
 
 
 
