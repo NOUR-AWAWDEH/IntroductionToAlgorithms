@@ -107,6 +107,9 @@ Each part and chapter includes detailed explanations of the algorithms, their ti
 
 9. **Statistics & Probability**: [Statistics & Probability](https://youtu.be/sbbYntt5CJk?si=DPZ8r4YuyZuUxU-O) - Introduces probability theory, statistical methods, and data analysis techniques.
 
+10. **Basic C# Langague Knowlege**: [C# Course](https://youtu.be/M5ugY7fWydE?si=LHdc7iQuPUgyX_4f) - Introduction to C# Langauge.
+
+---
 
 By following these steps, you can effectively use this repository to supplement your learning from the "Introduction to Algorithms 4th" book and gain a deeper understanding of the concepts through the provided C# implementations.
 ---
