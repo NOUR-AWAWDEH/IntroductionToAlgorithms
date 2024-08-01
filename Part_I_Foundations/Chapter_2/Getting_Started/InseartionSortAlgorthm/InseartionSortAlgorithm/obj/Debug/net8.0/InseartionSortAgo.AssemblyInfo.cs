@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InseartionSortAgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c061badd20f9722ca860d81168aed89b086e1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc9e2e691b19c6d05976469c977d60137fb3a7c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("InseartionSortAgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InseartionSortAgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
