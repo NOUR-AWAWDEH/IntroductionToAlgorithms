@@ -1,17 +1,5 @@
 # Summations
 
-note : At this point You Need to Know this Topics:
-
-1.  Pre-Algebra:         https://youtu.be/VXzm8ReImG0?si=cSyK1MZU-H5AkCJA
-2.  Algebra:             https://youtu.be/GAN-jgzYsIo?si=uyfvkKZOZIKo5z-d
-3.  College Algebra:     https://youtu.be/LwCRRUa8yTU?si=UYvIitSWMl_ujSw2  
-4.  Precalculuse:        https://youtu.be/eI4an8aSsgw?si=fJKpfBsRft0rHPBQ
-5.  Calculus 1           https://youtu.be/HfACrKJ_Y2w?si=TFr8A93DEuF02uPD  
-6.  Calculus 2           https://youtu.be/7gigNsz4Oe8?si=v38qCTvVOYEvhgmx
-7.  Discrete math:       https://www.youtube.com/watch?v=2SpuBqvNjHI 
-8.  Linear Algebra       https://youtu.be/JnTa9XtvmfI?si=cfdcPMjwTdz5zIMD
-9.  Statistics           https://youtu.be/xxpc-HPKN28?si=bmrzQY6C5SUza_D6
-
 ## Summation formulas and properties
 
 ### Finite sum
