@@ -89,31 +89,24 @@ Each part and chapter includes detailed explanations of the algorithms, their ti
 
 ## Pre-Requisite Knowledge
 
-1. **Pre-Algebra**
-   - YouTube Link: [Pre-Algebra](https://youtu.be/VXzm8ReImG0?si=cSyK1MZU-H5AkCJA)
+1. **Pre-Algebra**: [Pre-Algebra](https://youtu.be/VXzm8ReImG0?si=cSyK1MZU-H5AkCJA) - Covers foundational mathematics concepts including basic arithmetic, fractions, and introductory algebra.
 
-2. **Algebra**
-   - YouTube Link: [Algebra](https://youtu.be/GAN-jgzYsIo?si=uyfvkKZOZIKo5z-d)
+2. **Algebra 1**: [Algebra](https://youtu.be/GAN-jgzYsIo?si=uyfvkKZOZIKo5z-d) - Introduces variables, equations, functions, and basic graphing.
 
-3. **College Algebra**
-   - YouTube Link: [College Algebra](https://youtu.be/LwCRRUa8yTU?si=UYvIitSWMl_ujSw2)
+3. **College Algebra**: [College Algebra](https://youtu.be/LwCRRUa8yTU?si=UYvIitSWMl_ujSw2) - Explores advanced algebraic concepts including polynomial, rational, exponential, and logarithmic functions.
 
-4. **Precalculus**
-   - YouTube Link: [Precalculus](https://youtu.be/eI4an8aSsgw?si=fJKpfBsRft0rHPBQ)
+4. **Precalculus**: [Precalculus](https://youtu.be/eI4an8aSsgw?si=fJKpfBsRft0rHPBQ) - Prepares students for calculus by covering functions, complex numbers, trigonometry, and analytical geometry.
 
-5. **Calculus 1**
-   - YouTube Link: [Calculus 1](https://youtu.be/HfACrKJ_Y2w?si=TFr8A93DEuF02uPD)
+5. **Calculus 1**: [Calculus 1](https://youtu.be/HfACrKJ_Y2w?si=TFr8A93DEuF02uPD) - Focuses on limits, derivatives, and integrals of single-variable functions.
 
-6. **Calculus 2**
-   - YouTube Link: [Calculus 2](https://youtu.be/7gigNsz4Oe8?si=v38qCTvVOYEvhgmx)
+6. **Calculus 2**: [Calculus 2](https://youtu.be/7gigNsz4Oe8?si=v38qCTvVOYEvhgmx) - Continues calculus studies with techniques of integration, series, and polar coordinates.
 
-7. **Discrete Mathematics**
-   - YouTube Link: [Discrete Mathematics](https://www.youtube.com/watch?v=2SpuBqvNjHI)
+7. **Discrete Mathematics**: [Discrete Mathematics](https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz) - Covers logic, set theory, combinatorics, graph theory, and algorithms.
 
-8. **Linear Algebra**
-   - YouTube Link: [Linear Algebra](https://youtu.be/JnTa9XtvmfI?si=cfdcPMjwTdz5zIMD)
+8. **Linear Algebra**: [Linear Algebra](https://youtu.be/JnTa9XtvmfI?si=cfdcPMjwTdz5zIMD) - Discusses vector spaces, matrices, determinants, eigenvalues, and eigenvectors.
 
-9. **Statistics**
-   - YouTube Link: [Statistics](https://youtu.be/xxpc-HPKN28?si=bmrzQY6C5SUza_D6)
-   
+9. **Statistics & Probability**: [Statistics & Probability](https://youtu.be/sbbYntt5CJk?si=DPZ8r4YuyZuUxU-O) - Introduces probability theory, statistical methods, and data analysis techniques.
+
+
 By following these steps, you can effectively use this repository to supplement your learning from the "Introduction to Algorithms 4th" book and gain a deeper understanding of the concepts through the provided C# implementations.
+---
