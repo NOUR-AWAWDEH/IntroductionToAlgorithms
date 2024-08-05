@@ -91,7 +91,7 @@ Each part and chapter includes detailed explanations of the algorithms, their ti
 
 1. **Pre-Algebra**: [Pre-Algebra](https://youtu.be/VXzm8ReImG0?si=cSyK1MZU-H5AkCJA) - Covers foundational mathematics concepts including basic arithmetic, fractions, and introductory algebra.
 
-2. **Algebra 1**: [Algebra](https://youtu.be/GAN-jgzYsIo?si=uyfvkKZOZIKo5z-d) - Introduces variables, equations, functions, and basic graphing.
+2. **Algebra **: [Algebra](https://youtu.be/GAN-jgzYsIo?si=uyfvkKZOZIKo5z-d) - Introduces variables, equations, functions, and basic graphing.
 
 3. **College Algebra**: [College Algebra](https://youtu.be/LwCRRUa8yTU?si=UYvIitSWMl_ujSw2) - Explores advanced algebraic concepts including polynomial, rational, exponential, and logarithmic functions.
 
@@ -105,9 +105,12 @@ Each part and chapter includes detailed explanations of the algorithms, their ti
 
 8. **Linear Algebra**: [Linear Algebra](https://youtu.be/JnTa9XtvmfI?si=cfdcPMjwTdz5zIMD) - Discusses vector spaces, matrices, determinants, eigenvalues, and eigenvectors.
 
-9. **Statistics & Probability**: [Statistics & Probability](https://youtu.be/sbbYntt5CJk?si=DPZ8r4YuyZuUxU-O) - Introduces probability theory, statistical methods, and data analysis techniques.
+9. **Introduction to probability** : [Introduction to probability](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&si=iZ9GFfkfxRen1h4w) - Introduces probability theory.
 
-10. **Basic C# Langague Knowlege**: [C# Course](https://youtu.be/M5ugY7fWydE?si=LHdc7iQuPUgyX_4f) - Introduction to C# Langauge.
+10. **Statistics**: [Statistics](https://youtu.be/LJa4_yGOmwo?si=1ST5GE_4_hfxpv1u) - Introduces statistical methods, and data analysis techniques.
+
+
+11. **Basic C# Langague Knowlege**: [C# Course](https://youtu.be/M5ugY7fWydE?si=LHdc7iQuPUgyX_4f) - Introduction to C# Langauge.
 
 ---
 
