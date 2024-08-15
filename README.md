@@ -112,7 +112,9 @@ Each part and chapter includes detailed explanations of the algorithms, their ti
 
 11. **Basic C# Langague Knowlege**: [C# Course](https://youtu.be/M5ugY7fWydE?si=LHdc7iQuPUgyX_4f) - Introduction to C# Langauge.
 
+If you have a good  math skills you can just try MIT course:  [Mathematics for Computer Science](https://youtube.com/playlist?list=PLB7540DEDD482705B&si=pN9GfqvaPwvl-cY4)
 ---
 
 By following these steps, you can effectively use this repository to supplement your learning from the "Introduction to Algorithms 4th" book and gain a deeper understanding of the concepts through the provided C# implementations.
+
 ---
